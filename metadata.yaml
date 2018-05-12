@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25724
     wikipedia: http://en.wikipedia.org/wiki/Fitz_Hugh_Ludlow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23170#A-Brace-Of-Boys1867-From--Little-Brother-
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text
 identifiers:
